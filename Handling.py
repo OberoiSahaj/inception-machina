@@ -27,3 +27,6 @@ except Exception as e:
 
 
 # i = 0/0
+
+
+# WE ADDED IT HERE JUST FOR FUN
